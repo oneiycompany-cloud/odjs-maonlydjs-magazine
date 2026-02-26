@@ -1,0 +1,7 @@
+{
+  "name": "Only DJS Mag",
+  "description": "OnlyDJS Magazine is a global electronic music editorial platform delivering the latest news, exclusive interviews, in-depth reviews, artist features, music technology insights and dance culture coverage from around the world.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
